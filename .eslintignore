@@ -1,0 +1,9 @@
+**/*.png
+**/*.jpg
+**/*.json
+node_modules
+babel.config.js
+.eslintrc.js
+jest.config.js
+metro.config.js
+apollo.config.js
